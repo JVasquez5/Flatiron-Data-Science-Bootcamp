@@ -127,3 +127,28 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Computer specific
+.DS_Store
+
+# Module 5 Folders 
+Module_5_Final_Project/pcba/
+Module_5_Final_Project/smiles_images/
+Module_5_Final_Project/tox21/
+Module_5_Final_Project/tox21_complete/
+Module_5_Final_Project/database.xml
+Module_5_Final_Project/structure.csv
+Module_5_Final_Project/structures.sdf
+Module_5_Final_Project/face_detector.h15/
+Module_5_Final_Project/mol_images/
+Module_5_Final_Project/sandbox.ipynb
+Module_5_Final_Project/sandbox_2.ipynb
+
+# Module 4 Folders 
+Module_5_Final_Project/chest_xray/
+Module_5_Final_Project/Test/
+Module_5_Final_Project/Train/
+Module_5_Final_Project/Validation/
+Module_5_Final_Project/sandbox.ipynb
+Module_5_Final_Project/sandbox_2.ipynb
+Module_5_Final_Project/sandbox_3.ipynb
